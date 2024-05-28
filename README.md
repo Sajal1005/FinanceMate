@@ -1,10 +1,10 @@
-# KoronKorko Web-Application
+# FinanceMate Web-Application
 
-## What is KoronKorko?
+## What is FinanceMate?
 
-[KoronKorko][0] is a finance web-application developed by [Omar Kraidié][dev]. KoronKorko has many different types of finance calculators. All the available calculators are listed below in this `README.md` file.
+[FinanceMate][0] is a finance web-application developed by [Omar Kraidié][dev]. FinanceMate has many different types of finance calculators. All the available calculators are listed below in this `README.md` file.
 
-The users of KoronKorko can select a currency in which the monetary results of the calculators are printed. The selected currency will be saved either in local storage or in the authenticated users preferences.
+The users of FinanceMate can select a currency in which the monetary results of the calculators are printed. The selected currency will be saved either in local storage or in the authenticated users preferences.
 
 In Addition, authenticated users can:
 
@@ -13,9 +13,9 @@ In Addition, authenticated users can:
 -   import previously saved calculations
 -   delete previously saved calculations
 
-KoronKorko is created using the the MERN stack.
+FinanceMate is created using the the MERN stack.
 
-## Calculators of KoronKorko
+## Calculators of FinanceMate
 
 ### [Compound Interest Calculator][1]
 
@@ -56,10 +56,10 @@ Calculates the difference between the cost and the selling price of your product
 ---
 
 [dev]: https://github.com/0mppula
-[0]: https://www.koronkorko.com/
-[1]: https://www.koronkorko.com/compound-interest-calculator
-[2]: https://www.koronkorko.com/annualized-return-calculator
-[3]: https://www.koronkorko.com/present-value-calculator
-[4]: https://www.koronkorko.com/investment-time-calculator
-[5]: https://www.koronkorko.com/break-even-point-calculator
-[6]: https://www.koronkorko.com/markup-calculator
+[0]: https://www.FinanceMate.com/
+[1]: https://www.FinanceMate.com/compound-interest-calculator
+[2]: https://www.FinanceMate.com/annualized-return-calculator
+[3]: https://www.FinanceMate.com/present-value-calculator
+[4]: https://www.FinanceMate.com/investment-time-calculator
+[5]: https://www.FinanceMate.com/break-even-point-calculator
+[6]: https://www.FinanceMate.com/markup-calculator
