@@ -2,7 +2,7 @@
 
 ## What is FinanceMate?
 
-[FinanceMate][0] is a finance web-application developed by [Omar Kraidié][dev]. FinanceMate has many different types of finance calculators. All the available calculators are listed below in this `README.md` file.
+[FinanceMate][0] is a finance web-application developed by Sajal Nanda. FinanceMate has many different types of finance calculators. All the available calculators are listed below in this `README.md` file.
 
 The users of FinanceMate can select a currency in which the monetary results of the calculators are printed. The selected currency will be saved either in local storage or in the authenticated users preferences.
 
